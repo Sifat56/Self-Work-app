@@ -1,0 +1,8 @@
+{
+  "name": " Self Work",
+  "description": "Legitimate task and reward platform where users complete real work and earn approved rewards with anti-cheat verification, wallet withdrawals, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
